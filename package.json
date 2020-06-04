@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-sharpdigitalocean-3",
-  "version": "v3.0.1@0.1",
+  "version": "v3.0.1-2",
   "description": "strapi 3.0 file upload to digital ocean spaces, with two resized images, resized by sharp",
   "directories": {
     "lib": "./lib"
@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/merijnponzo/strapi-provider-upload-sharpdigitalocean"
+    "url": "https://github.com/merijnponzo/strapi-provider-upload-sharpdigitalocean-3"
   },
   "strapi": {
     "isProvider": true
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.686.0",
-    "sharp": "^0.25.3"
+    "sharp": "0.25.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0"
