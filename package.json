@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-sharpdigitalocean-3",
-  "version": "v3.0.1-2",
+  "version": "v3.0.1-3",
   "description": "strapi 3.0 file upload to digital ocean spaces, with two resized images, resized by sharp",
   "directories": {
     "lib": "./lib"
